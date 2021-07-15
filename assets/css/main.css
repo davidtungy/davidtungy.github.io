@@ -3887,6 +3887,7 @@ input, select, textarea {
 
 .company img {
 	float: left;
+	width: 100%;
 	max-width: 30px;
 }
 
