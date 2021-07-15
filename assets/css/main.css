@@ -3880,3 +3880,19 @@ input, select, textarea {
 		}
 
 	}
+
+.right-justify {
+	text-align: right;
+}
+
+.company img {
+	float: left;
+	max-width: 30px;
+}
+
+.company h3 {
+	position: relative;
+	display: flex;
+	align-items: center;
+	margin-left: 50px;
+}
