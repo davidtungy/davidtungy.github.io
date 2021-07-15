@@ -3897,3 +3897,8 @@ input, select, textarea {
 	align-items: center;
 	margin-left: 50px;
 }
+
+.courses {
+	margin-top: 20px;
+	columns: 2;
+}
