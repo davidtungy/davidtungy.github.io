@@ -3885,6 +3885,10 @@ input, select, textarea {
 	text-align: right;
 }
 
+.left-justify {
+	text-align: left;
+}
+
 .company img {
 	float: left;
 	width: 100%;
